@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300;400&display=swap");
+html body header {
+  background-image: url("/lune-wallpaper-6-1.jpg");
+  background-color: #272E39;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative; }
+  html body header h1 {
+    font-family: "Kanit", sans-serif;
+    color: #fff;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 55px;
+    text-shadow: 5px 3px 3px #272E39; }
+    html body header h1 span.bold {
+      font-weight: 600;
+      text-transform: uppercase; }
+
+/*# sourceMappingURL=styles.css.map */
